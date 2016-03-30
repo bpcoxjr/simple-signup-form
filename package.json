@@ -1,0 +1,22 @@
+{
+  "name": "simple-signup-form",
+  "version": "1.0.0",
+  "description": "signup form using ng-transclude",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bpcoxjr/simple-signup-form.git"
+  },
+  "author": "B. Patrick Cox, Jr.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bpcoxjr/simple-signup-form/issues"
+  },
+  "homepage": "https://github.com/bpcoxjr/simple-signup-form#readme",
+  "devDependencies": {
+    "bower": "^1.7.7"
+  }
+}

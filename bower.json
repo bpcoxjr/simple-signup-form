@@ -1,0 +1,22 @@
+{
+  "name": "simple-signup-form",
+  "homepage": "https://github.com/bpcoxjr/simple-signup-form",
+  "authors": [
+    "Bruce P Cox Jr <bpcoxjr@yahoo.com>"
+  ],
+  "description": "signup form using ng-transclude",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "^1.5.3",
+    "bootstrap": "^3.3.6"
+  }
+}
