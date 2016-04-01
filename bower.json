@@ -17,6 +17,8 @@
   ],
   "devDependencies": {
     "angular": "^1.5.3",
-    "bootstrap": "^3.3.6"
+    "bootstrap": "^3.3.6",
+    "jquery": "^2.2.2",
+    "angular-mocks": "^1.5.3"
   }
 }
