@@ -5,7 +5,8 @@ describe('optIn', function() {
         element,
         compiled,
         html,
-        someone;
+        brandLogo,
+        brandImage;
     //before each test, require the 'signupFormApp'
     beforeEach(module('signupFormApp'));
     //before each test, require the 'opt-in.html' partial
