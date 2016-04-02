@@ -25,7 +25,6 @@ describe('optIn', function() {
         element = compiled(scope);
         //call digest to have angular look through all the changes
         scope.$digest();
-
     }));
     //does what we expect to happen actually happen?
     it('should render element and contain image', function(){
